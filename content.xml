@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504003238ZORXE8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504003238AK4L7G</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Garcia_Miguelez_Jose_Manuel_actividad_2a_B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José Manuel García Miguélez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777846258516</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>28659784-d1ac-41a8-aa33-e2f5b6c3015a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Podcast de los inventos que cambiaron el Mundo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Podcast de los inventos que cambiaron el Mundo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Podcast de los inventos que cambiaron el Mundo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>28659784-d1ac-41a8-aa33-e2f5b6c3015a</odePageId>
+      <odeBlockId>block-1777842209534-sdwlh6t85</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>28659784-d1ac-41a8-aa33-e2f5b6c3015a</odePageId>
+          <odeBlockId>block-1777842209534-sdwlh6t85</odeBlockId>
+          <odeIdeviceId>idevice-1777842209532-xblp50dw9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Etapa y Nivel: 6º curso de Educación Primaria<br />Áreas implicadas: Ciencias Naturales, Lengua Castellana y Literatura.<br />Agrupamientos y organización:</p>
+<p>Equipos de 4 "Podcasters" con los siguientes roles: Guionista, locutor, técnico de Efectos y reportero.</p>
+<p><br />Organización: Rincones de trabajo (Rincón de investigación, Rincón de locución). Siguiendo los principios DUA, los alumnos pueden elegir si prefieren escribir el guion o ser los que editan el audio.</p>
+<p>Temporalización: 8 sesiones.<br /></p>
+<p>Productos Finales:</p>
+<p>Infografía Interactiva: en la que expliquen como funciona el invento y al pulsar en partes del mismo, se explique cómo funciona.<br />Podcast: Un episodio de 3-5 minutos entrevistando al inventor o inventores, interpretado por uno/a o varios/as alumnos/as o narrando el descubrimiento.<br />Herramientas Tecnológicas:</p>
+<p>Tablets, portátiles, webs proporcionadas vía Teams, lista de inventos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842209532-xblp50dw9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Etapa y Nivel: 6º curso de Educación Primaria<br />Áreas implicadas: Ciencias Naturales, Lengua Castellana y Literatura.<br />Agrupamientos y organización:</p>\n<p>Equipos de 4 \"Podcasters\" con los siguientes roles: Guionista, locutor, técnico de Efectos y reportero.</p>\n<p><br />Organización: Rincones de trabajo (Rincón de investigación, Rincón de locución). Siguiendo los principios DUA, los alumnos pueden elegir si prefieren escribir el guion o ser los que editan el audio.</p>\n<p>Temporalización: 8 sesiones.<br /></p>\n<p>Productos Finales:</p>\n<p>Infografía Interactiva: en la que expliquen como funciona el invento y al pulsar en partes del mismo, se explique cómo funciona.<br />Podcast: Un episodio de 3-5 minutos entrevistando al inventor o inventores, interpretado por uno/a o varios/as alumnos/as o narrando el descubrimiento.<br />Herramientas Tecnológicas:</p>\n<p>Tablets, portátiles, webs proporcionadas vía Teams, lista de inventos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777842088119-irb0q2ksa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777842088119-irb0q2ksa</odePageId>
+      <odeBlockId>block-1777842096731-jr2sq02a3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777842088119-irb0q2ksa</odePageId>
+          <odeBlockId>block-1777842096731-jr2sq02a3</odeBlockId>
+          <odeIdeviceId>idevice-1777842096729-5etcxiz34</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A esta edad, al alumnado le encanta hablar y contar historias, sobre todo, hacerlo mediante el uso de la tecnología y pudiendo hacerlo en un formato cercano al que ven y consumen en su día a día en formatos como Youtube o Tik Tok. Usar el podcast mejora su expresión oral sin el miedo de estar frente a toda la clase, y les enseña a sintetizar información científica para poder ser comprendida por todo el alumnado y hacerla más sencilla.</p>
+<p>ODS relacionados:</p>
+<p>-ODS 9: Industria, Innovación e Infraestructura.</p>
+<p>-ODS 17: Alianzas para lograr los objetivos.</p>
+<p><br />Reto s. XXI: Alfabetización digital y pensamiento crítico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842096729-5etcxiz34","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A esta edad, al alumnado le encanta hablar y contar historias, sobre todo, hacerlo mediante el uso de la tecnología y pudiendo hacerlo en un formato cercano al que ven y consumen en su día a día en formatos como Youtube o Tik Tok. Usar el podcast mejora su expresión oral sin el miedo de estar frente a toda la clase, y les enseña a sintetizar información científica para poder ser comprendida por todo el alumnado y hacerla más sencilla.</p>\n<p>ODS relacionados:</p>\n<p>-ODS 9: Industria, Innovación e Infraestructura.</p>\n<p>-ODS 17: Alianzas para lograr los objetivos.</p>\n<p><br />Reto s. XXI: Alfabetización digital y pensamiento crítico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777842090005-kdj67gv19</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777842090005-kdj67gv19</odePageId>
+      <odeBlockId>block-1777842930855-jx899xcqd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777842090005-kdj67gv19</odePageId>
+          <odeBlockId>block-1777842930855-jx899xcqd</odeBlockId>
+          <odeIdeviceId>idevice-1777842930853-ankshnt9v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias Clave</strong></p>
+<p>Competencia Lingüística y competencia Digital, trabajadas al realizar el guion del podcast y su grabación.</p>
+<p>Competencia STEM, trabajada al comprender e investigar los diferentes inventos.</p>
+<p><strong>Competencias específicas</strong></p>
+<p>Lengua: 3 (Producir textos orales y multimodales), 4 (Comprender e interpretar textos escritos y multimodales), 5 (Producir textos escritos y multimodales), 6 (Buscar, seleccionar y contrastar información).</p>
+<p>CCNN: 1 (Utilizar dispositivos y recursos digitales de forma segura), 3 (Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional)</p>
+<p><strong>Criterios de evaluación</strong></p>
+<p>Lengua: 3.1; 4.1; 5.1; 6.1; 6.2</p>
+<p>CCNN: 1.1; 3.3; 3.4</p>
+<p><strong>Saberes básicos</strong></p>
+<p>CCNN:</p>
+<p>-Bloque A: Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones.</p>
+<p>-La relación entre los avances en matemáticas, ciencia, ingeniería y tecnología para comprender la evolución de la sociedad en el ámbito científico-tecnológico.</p>
+<p>-Bloque B: Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.</p>
+<p>-Fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba,  evaluación y comunicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842930853-ankshnt9v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias Clave</strong></p>\n<p>Competencia Lingüística y competencia Digital, trabajadas al realizar el guion del podcast y su grabación.</p>\n<p>Competencia STEM, trabajada al comprender e investigar los diferentes inventos.</p>\n<p><strong>Competencias específicas</strong></p>\n<p>Lengua: 3 (Producir textos orales y multimodales), 4 (Comprender e interpretar textos escritos y multimodales), 5 (Producir textos escritos y multimodales), 6 (Buscar, seleccionar y contrastar información).</p>\n<p>CCNN: 1 (Utilizar dispositivos y recursos digitales de forma segura), 3 (Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional)</p>\n<p><strong>Criterios de evaluación</strong></p>\n<p>Lengua: 3.1; 4.1; 5.1; 6.1; 6.2</p>\n<p>CCNN: 1.1; 3.3; 3.4</p>\n<p><strong>Saberes básicos</strong></p>\n<p>CCNN:</p>\n<p>-Bloque A: Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones.</p>\n<p>-La relación entre los avances en matemáticas, ciencia, ingeniería y tecnología para comprender la evolución de la sociedad en el ámbito científico-tecnológico.</p>\n<p>-Bloque B: Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.</p>\n<p>-Fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba,  evaluación y comunicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777842091659-imamzos3t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777842091659-imamzos3t</odePageId>
+      <odeBlockId>block-1777844376693-9evt0wnxt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777842091659-imamzos3t</odePageId>
+          <odeBlockId>block-1777844376693-9evt0wnxt</odeBlockId>
+          <odeIdeviceId>idevice-1777844376691-b3txrifp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizará el aprendizaje cooperativo, donde cada alumno/a tendrá asignado uno de los roles mencionados anteriormente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777844376691-b3txrifp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizará el aprendizaje cooperativo, donde cada alumno/a tendrá asignado uno de los roles mencionados anteriormente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777842093549-5m70jhbwm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con proyectos del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con proyectos del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con proyectos del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777842093549-5m70jhbwm</odePageId>
+      <odeBlockId>block-1777845778677-u10res5s6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777842093549-5m70jhbwm</odePageId>
+          <odeBlockId>block-1777845778677-u10res5s6</odeBlockId>
+          <odeIdeviceId>idevice-1777845778675-8d0a4ydes</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PLEI (Plan de Lectura, escritura e investigación): Mediante la lectura de biografías de inventores y científicas famosas, la búsqueda de información sobre los inventos y la creación del guion del podcast.</p>
+<p>PDC (Plan Digital de centro): Mediante el uso de las tecnologías educativas para la búsqueda de información, mediante el uso responsable de internet y fomentando el conocimiento y el respeto del copyright.</p>
+<p>Educastur Radio: uso del material entregado por la consejería para realizar el podcast.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777845778675-8d0a4ydes","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI (Plan de Lectura, escritura e investigación): Mediante la lectura de biografías de inventores y científicas famosas, la búsqueda de información sobre los inventos y la creación del guion del podcast.</p>\n<p>PDC (Plan Digital de centro): Mediante el uso de las tecnologías educativas para la búsqueda de información, mediante el uso responsable de internet y fomentando el conocimiento y el respeto del copyright.</p>\n<p>Educastur Radio: uso del material entregado por la consejería para realizar el podcast.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777845989421-omurxhk3y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777845989421-omurxhk3y</odePageId>
+      <odeBlockId>block-1777845991062-ans3zexyw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777845989421-omurxhk3y</odePageId>
+          <odeBlockId>block-1777845991062-ans3zexyw</odeBlockId>
+          <odeIdeviceId>idevice-1777845991059-0czfklcqb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>"El Museo de los Inventos"</strong>: Exposición en el pasillo del colegio donde los padres, madres y compañeros/as podrán escanear un código QR y escuchar el podcast creado por el alumnado mientras ven la infografía pegada en la pared de forma física.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777845991059-0czfklcqb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>\"El Museo de los Inventos\"</strong>: Exposición en el pasillo del colegio donde los padres, madres y compañeros/as podrán escanear un código QR y escuchar el podcast creado por el alumnado mientras ven la infografía pegada en la pared de forma física.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777846292634-z410mflxb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y descargar</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descargar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777846292634-z410mflxb</odePageId>
+      <odeBlockId>block-1777846359539-8xcuoeija</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777846292634-z410mflxb</odePageId>
+          <odeBlockId>block-1777846359539-8xcuoeija</odeBlockId>
+          <odeIdeviceId>idevice-1777846359535-a6guge4q7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Haz clic en el siguiente enlace para descargar el archivo editable de esta Situación de Aprendizaje <a href="{{context_path}}/content/resources/garcia_miguelez_jose_manuel_actividad_2a_b2.elpx" title="garcia_miguelez_jose_manuel_actividad_2a_b2.elpx">garcia_miguelez_jose_manuel_actividad_2a_b2.elpx</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846359535-a6guge4q7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Haz clic en el siguiente enlace para descargar el archivo editable de esta Situación de Aprendizaje <a href=\"{{context_path}}/content/resources/garcia_miguelez_jose_manuel_actividad_2a_b2.elpx\" title=\"garcia_miguelez_jose_manuel_actividad_2a_b2.elpx\">garcia_miguelez_jose_manuel_actividad_2a_b2.elpx</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
